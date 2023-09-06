@@ -1,0 +1,12 @@
+.pagination{
+    display: flex;
+    justify-content: center !important;
+
+
+}
+
+.container-fluid{
+    display: flex;
+    flex-direction: column !important;
+
+}
